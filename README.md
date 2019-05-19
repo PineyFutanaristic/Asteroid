@@ -5,3 +5,5 @@ Instruction:
 + Press M to switch between modes
 + Hold your mouse for time dilation and increase in asteroids rate
 + Mana is required for special skills and will recharges once used up
+Made with p5.js.
+Openprocessing link: https://www.openprocessing.org/sketch/707243
